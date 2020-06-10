@@ -1,0 +1,14 @@
+insert into vlasnik_model values(0, "Pera", "pera123", "pera123", "Peric");
+insert into vlasnik_model values(0, "Marko", "marko123", "marko123", "Markovic");
+insert into vozilo_model values(0, "ki123");
+insert into vozilo_model values(0, "st123");
+insert into vozilo_model values(0, "bg123");
+insert into parking_karta_model values(0, '1000-01-01 00:00:00.000000', 3, '1000-01-01 00:00:00.000000');
+insert into parking_karta_model values(0, '1000-01-01 00:00:00.000000', 7, '1000-01-01 00:00:00.000000');
+insert into parking_karta_model values(0, '1000-01-01 00:00:00.000000', 5, '1000-01-01 00:00:00.000000');
+insert into vlasnikivozilo values(1, 1);
+insert into vlasnikivozilo values(1, 2);
+insert into vlasnikivozilo values(2, 3);
+insert into vozilaiparking_karte values(1, 1);
+insert into vozilaiparking_karte values(2, 2);
+insert into vozilaiparking_karte values(3, 3);
